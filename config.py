@@ -32,7 +32,7 @@ class Config(object):
     SUDO_USERS = set(int(x) for x in os.environ.get("SUDO_USERS", "1287276743").split())
 
     # Database URI
-    DB_URI = os.environ.get("DATABASE_URL", "")
+    DB_URI = os.environ.get("DATABASE_URL", "postgresql://postgres:nZeWBRDQcuOxNe5QyIwG@containers-us-west-21.railway.app:7319/railway")
 
     # Force subscribe channel / group id starting with -100
     FORCE_SUB_CHAT = os.environ.get("FORCE_SUB_CHAT", "-1001235572961")
