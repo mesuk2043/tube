@@ -4,7 +4,7 @@ pyrogram
 TgCrypto
 # --- For-YTDL. --------------- #
 youtube-search-python
-youtube-dl
+https://github.com/Anshusharma75/gandusaala/archive/refs/heads/master.zip
 pytube
 hachoir
 wget
