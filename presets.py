@@ -28,7 +28,7 @@ class Presets(object):
     DEFAULT_TITLE = "Inline Tube Mate Repository"
     DEFAULT_THUMB_URL = "https://image.flaticon.com/icons/png/512/25/25231.png"
     DEFAULT_LINK = "https://t.me/All_Source_Code
-    DEFAULT_DESCRIPTION = "LINK: FRIENDS | GitHub"
+    DEFAULT_DESCRIPTION = "Link: FRIENDS | GitHub"
     DEV_TITLE = "Developer Information"
     DEV_THUMB_URL = "https://freepikpsd.com/media/2019/10/software-developer-icon-png-2-Transparent-Images.png"
     DEV_LINK = "https://t.me/Anshu888o"
