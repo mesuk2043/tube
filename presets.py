@@ -10,12 +10,8 @@ class Presets(object):
 
 🔰 Search Inline or paste any YouTube URL to start the bot activity.
 
-🔰 SUDO USERS can broadcast the messages to all the users of the bot. Use:</code>
-<b>/subs</b><code> - to count subscribers</code>
-<b>/send</b><code>  - to broadcast (as reply)</code>
-
-<b>Join:</b><a href='https://t.me/RMProjects'><b> Support</b></a> | Repo\
-<a href='https://github.com/m4mallu/inline-tube-mate'><b> LINK</b></a>   
+<b>Join:</b><a href='https://t.me/INDIAHDM0VIES'><b> Support</b></a> | Source\
+<a href='https://t.me/All_Source_Code'><b> LINK</b></a>   
     """
 
     OPTIONS_TXT = "<code>🔰 Select the option 🔰</code>"
